@@ -594,7 +594,6 @@
     -webkit-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
     font-weight: 500;
-	text-transform: uppercase;
 }
 
 .cbp-l-filters-alignCenter .cbp-filter-item:hover {color: #2B3444; }
@@ -1050,7 +1049,6 @@
   padding: 0 16px;
   position: relative;
   display: inline-block;
-  text-transform: uppercase;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
@@ -1090,7 +1088,6 @@
     position: relative;
     display: inline-block;
     border: 1px solid transparent;
-    text-transform: uppercase;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
     .cbp-l-filters-big .cbp-filter-item:hover {
@@ -2734,8 +2731,7 @@
   font: 600 42px/46px 'Roboto', sans-serif;
   letter-spacing: 2px;
   margin-bottom: 15px;
-  text-align: center;
-  text-transform: uppercase; }
+  text-align: center;}
 
 .cbp-l-project-subtitle {
   /* @editable properties */
@@ -3460,7 +3456,6 @@
   font: 400 17px/25px "Roboto Condensed", sans-serif;
   color: #607D8B;
   text-align: center;
-  text-transform: uppercase;
   display: block; }
 
 .cbp-l-grid-work-title:hover {
@@ -3471,8 +3466,7 @@
   /* @editable properties */
   font: 400 11px/16px 'Roboto', sans-serif;
   color: #888888;
-  text-align: center;
-  text-transform: uppercase; }
+  text-align: center;}
 
 .cbp-l-grid-blog-title {
   /* @editable properties */
@@ -3593,7 +3587,6 @@
 .cbp-l-grid-mosaic-flat .cbp-l-caption-title {
   color: #FFFFFF;
   font: 400 14px/21px "Lato", sans-serif;
-  text-transform: uppercase;
   letter-spacing: 2px;
   display: inline-block; }
 
@@ -3618,7 +3611,6 @@
 .cbp-l-grid-mosaic .cbp-l-caption-title {
   color: #5A5A5A;
   font: 500 18px/22px "Roboto", sans-serif;
-  text-transform: uppercase;
   margin-bottom: 5px; }
 
 .cbp-l-grid-mosaic .cbp-l-caption-desc {

@@ -21,7 +21,6 @@ nav.bootsnav .megamenu-content .title{
     margin: 20px 10px 15px 10px;
     color: #4facfe;
     font-size: 14px;
-    text-transform: uppercase;
     font-weight: 700;
     border-bottom: 1px solid #dddfe6;
     padding-bottom: 15px;
@@ -93,7 +92,7 @@ nav.navbar.bootsnav ul.nav > li > a{
     background-color: transparent;
     outline: none;
     margin-bottom: -2px;
-	  font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 14px;
 	  font-weight: 500;
 }
@@ -245,7 +244,6 @@ nav.bootsnav.navbar-full .navbar-collapse ul.nav > li{
 nav.bootsnav.navbar-full .navbar-collapse ul.nav > li > a{
     display: table;
     margin: auto;
-    text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 2px;
     font-size: 24px;
@@ -2435,7 +2433,6 @@ ul.side-bar-nav li a {
     color: #212121;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
-    text-transform: uppercase;
     letter-spacing: 1px;
 }
 
