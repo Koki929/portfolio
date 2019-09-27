@@ -129,7 +129,8 @@ iframe, embed, object {max-width: 100%;}
 
 /* Typography */
 
-h1, h2, h3, h4, h5, h6 {color: #212121;margin: 20px 0 10px 0;font-style: normal;font-family: 'Montserrat', sans-serif;}
+h1, h2, h4, h5, h6 {color: #212121;margin: 20px 0 10px 0;font-style: normal;font-family: 'Montserrat', sans-serif;}
+h3 {color: #212121;margin: 20px 0 10px 0;font-style: normal;font-family: 'Raleway', sans-serif;}
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {line-height: 1.2em;}
 h1 { font-size: 56px;}
 h2 { font-size: 36px;}
@@ -141,7 +142,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #212121;}
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5:hover a, h6 a:hover { color: #4facfe;}
 p a {}
 p a:hover {color: #4facfe;}
-p {letter-spacing: normal;line-height: 24px;color: #888;font-weight:400;font-family: 'Open Sans', sans-serif;}
+p {letter-spacing: normal;line-height: 24px;color: #888;font-weight:400;font-family: 'Open Sans Condensed', sans-serif;}
 a {text-decoration: none;color:#212121;}
 a:hover, a:focus, a:active {outline: none;text-decoration: none;color:#4facfe;}
 ul {list-style: disc;}
@@ -641,6 +642,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#232526', end
 .montserrat-font{font-family: 'Montserrat', sans-serif;}
 .open-font{font-family: 'Open Sans', sans-serif;}
 .raleway-font{font-family: 'Raleway', sans-serif;}
+.condensed-font{font-family: 'Open Sans Condensed', sans-serif;}
 
 .font-100 {font-weight:100;}
 .font-200 {font-weight:200;}
