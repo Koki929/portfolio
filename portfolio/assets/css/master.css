@@ -1895,7 +1895,7 @@ a.readmore > span {display: inline-block;vertical-align: middle;}
 
 .post-tags a {display: inline-block;padding: 5px 11px;margin: 0 5px 15px 0;border: 1px solid #e0e0e0;font-size: 10px;color: #888;letter-spacing: 0.2px;}
 .post-tags a:hover{background: #4facfe;border: 1px solid #4facfe;color:#fff;text-decoration: none;}
-
+.contact {display: inline-block; margin: 0 20px;}
 
 /* pagination */
 .pagination {border-radius: 0; padding: 0; margin: 0}
